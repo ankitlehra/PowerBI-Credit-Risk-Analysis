@@ -8,7 +8,8 @@ This repository contains a Power BI dashboard analyzing customer credit scores a
 
 ## Files in this repository:
 1. `credit_risk_dashboard.pbix` - The Power BI project file.
-2. Screenshot images of the dashboard and visualizations.
+2. 'Customer-Churn-Records.csv' - The dataset file in CSV format.
+3. Screenshot images of the dashboard and visualizations.
 
 ## How to use:
 - Download the `.pbix` file.
